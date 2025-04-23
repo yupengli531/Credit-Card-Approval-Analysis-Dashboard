@@ -2,7 +2,7 @@
 ## Visualization (Dashboard)
 This Tableau Dashboard visualizes approval rates segmented by demographic and socioeconomic variables such as age, education, housing, income type, and family status.  Users can explore patterns through filters and comparative visualizations to better understand which groups are more likely to receive credit approval.
 
-![Front Page]()
+![Front Page](https://github.com/yupengli531/Credit-Card-Approval-Analysis-Dashboard/blob/9b7a66d18a4daf1a8c4c17f1cc9c63f53f248a67/Front%20Page.png)
 
 
 - For more details, please refer to the Tableau Public Dashboard [Click Here](https://public.tableau.com/views/CreditCardApprovalAnalysis_17453747124030/FrontPage?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
