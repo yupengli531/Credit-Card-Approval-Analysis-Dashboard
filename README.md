@@ -17,5 +17,8 @@ This Tableau Dashboard visualizes approval rates segmented by demographic and so
 - For more details, please refer to the Tableau Public Dashboard [Click Here](https://public.tableau.com/views/CreditCardApprovalAnalysis_17453747124030/FrontPage?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 ## Exploratory Data Analysis (EDA)
 The EDA dashboard provides an overview of the dataset structure and distribution, highlighting key variables such as income, age, education, and approval outcomes.  It identifies trends, potential outliers, and demographic imbalances to support informed feature selection and guide downstream analysis.
+
+![Univariate Analysis: Application Informations- Categories](https://github.com/yupengli531/Credit-Card-Approval-Analysis-Dashboard/blob/cd68704ddc84b4862d84d1a5262d01427a64d40c/Univariate%20Analysis%3A%20Applications%20Information-%20Categories.png)
+
 - For more details,  please refer to the Tableau Public Dashboard [Click Here](https://public.tableau.com/views/CreditCardApprovalEDA/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
